@@ -1,0 +1,23 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+    display: none;
+    padding-top: 40px;
+    height: 400px;
+    width: 100%;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 0px;
+}
+
+svg {
+    margin-top: 0px;
+}
